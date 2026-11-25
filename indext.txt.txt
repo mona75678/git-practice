@@ -1,3 +1,2 @@
 My first git project
 I am learning git and GitHub
-i am good girl
